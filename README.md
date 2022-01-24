@@ -1,16 +1,13 @@
 # category_product_list
 
-A new Flutter project.
 
-## Getting Started
+## used packages
 
-This project is a starting point for a Flutter application.
+connectivity_plus ,
+flutter_easyloading
+dio
+get->RxObjectMixin
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/category_product_list/blob/main/screenshots/Screenshot_1.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/category_product_list/blob/main/screenshots/Screenshot_2.jpg" />
+<img align="left" alt="verify_page" width="360px"  src="https://github.com/mosfeqanik/category_product_list/blob/main/screenshots/Screenshot_3.jpg" />
